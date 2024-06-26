@@ -1,0 +1,7 @@
+C:\Users\rajbh\OneDrive\Desktop\C#\multiplearray\multiplearray\bin\Debug\multiplearray.exe.config
+C:\Users\rajbh\OneDrive\Desktop\C#\multiplearray\multiplearray\bin\Debug\multiplearray.exe
+C:\Users\rajbh\OneDrive\Desktop\C#\multiplearray\multiplearray\bin\Debug\multiplearray.pdb
+C:\Users\rajbh\OneDrive\Desktop\C#\multiplearray\multiplearray\obj\Debug\multiplearray.csproj.AssemblyReference.cache
+C:\Users\rajbh\OneDrive\Desktop\C#\multiplearray\multiplearray\obj\Debug\multiplearray.csproj.CoreCompileInputs.cache
+C:\Users\rajbh\OneDrive\Desktop\C#\multiplearray\multiplearray\obj\Debug\multiplearray.exe
+C:\Users\rajbh\OneDrive\Desktop\C#\multiplearray\multiplearray\obj\Debug\multiplearray.pdb
